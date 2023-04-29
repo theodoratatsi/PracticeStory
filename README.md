@@ -2,6 +2,7 @@
 DataVizForAll.org story template using modified Bootstrap
 
 ## Live view (replace with your own published link in Settings > Pages)
+https://theodoratatsi.github.io/Whendohartfordcrasheshappen-/
 https://theodoratatsi.github.io/PracticeStory/
 
 ## Instructions
